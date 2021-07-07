@@ -26,7 +26,9 @@
 <br>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul2002m&label=Profile%20views&color=0e75b6&style=flat" alt="rahul2002m" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=rahul2002m&label=Profile%20views&color=e89b17&style=flat" alt="rahul2002m" /> </p>
+
+[![Badge](https://cp-logo.vercel.app/codechef/rahul_cr)](https://www.codechef.com/users/rahul_cr)
 
 <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul2002m&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=141321" alt="rahul2002m" /></p>
 
