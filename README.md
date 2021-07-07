@@ -4,11 +4,11 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/web_developer.gif">
 
 - 🌱 I’m currently learning **JavaScript, Flask etc.,**
-- 👨‍💻 All of my projects are available at [https://github.com/rahul2002m](https://github.com/rahul2002m)
-- 📝 I regularly write articles on [https://techclone1.blogspot.com/](https://techclone1.blogspot.com/)
+- 👨‍💻 All of my projects are available at [Github Profile](https://github.com/rahul2002m)
+- 📝 I regularly write articles on [my blog](https://techclone1.blogspot.com/)
 - 📫 How to reach me **rahul2002m@gmail.com**
-- 📄 Know about my experiences [https://resume.io/r/lh9AJwHw5](https://resume.io/r/lh9AJwHw5)
-- ⚡ Fun fact **.....**
+- 📄 Know about my experiences [on my resume](https://resume.io/r/lh9AJwHw5)
+- ⚡ Fun fact **Everything is fun**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
