@@ -14,7 +14,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul-m-a65795197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-m-a65795197" height="30" width="40" /></a>
-<a href="https://instagram.com/__cool_guy_rahul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__cool_guy_rahul" height="30" width="40" /></a>
+<a href="https://instagram.com/rahul._.2220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__cool_guy_rahul" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rahul_cr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahul_cr" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/19l31a05f9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="19l31a05f9" height="30" width="40" /></a>
 <a href="https://www.hackerearth.com/@m976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@m976" height="30" width="40" /></a>
