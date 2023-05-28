@@ -1,39 +1,59 @@
-### Hi Guys 👋, I'm Rahul
-<h5>I love programming and I always try to learn new technical concepts.</h5>
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rahul</h1>
+<h3 align="center">Python Developer | Technical Content Writer</h3>
+<h4>I am deeply passionate about programming, constantly driven to explore and embrace cutting-edge technical concepts that expand the horizons of my knowledge.</h4>
+<p><img align="right" height="450em" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/2514208/screenshots/9457622/web_developer.gif">
+<p> <img src="https://komarev.com/ghpvc/?username=rahul2002m&label=Profile%20views&color=e89b17&style=flat" alt="rahul2002m" /> </p>
 
-- 🌱 I’m currently learning **JavaScript, Flask etc.,**
+<!-- [![Badge](https://cp-logo.vercel.app/codechef/rahul_cr)](https://www.codechef.com/users/rahul_cr) -->
+
+
+- 🌱 Currently working as **Lead Python Developer** at [Myways.ai](https://myways.ai)
 - 👨‍💻 All of my projects are available at [Github Profile](https://github.com/rahul2002m)
+- 🧭 I'm currently exploring **LLM, OpenAI and Langchain**
 - 📝 I regularly write articles on [my blog](https://techclone1.blogspot.com/)
-- 📫 How to reach me **rahul2002m@gmail.com**
-- 📄 Go through my portfolio [on my site](https://mrahul.me)
-- 📄 Know about my experiences [on my resume](https://resume.io/r/lh9AJwHw5)
+- 📄 Go through my portfolio on [my site](https://mrahul.me)
 - ⚡ Fun fact **Everything is fun**
+<!-- - 📄 Know about my experiences [on my resume](https://resume.io/r/lh9AJwHw5) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rahul-m-a65795197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul-m-a65795197" height="30" width="40" /></a>
 <a href="https://instagram.com/rahul._.2220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__cool_guy_rahul" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/rahul_cr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rahul_cr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/19l31a05f9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="19l31a05f9" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@m976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@m976" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/rahul2002m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rahul2002m" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)\
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)\
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)
+
 
 <br>
 
+### ⚙️ &nbsp;GitHub Analytics
 
-<p> <img src="https://komarev.com/ghpvc/?username=rahul2002m&label=Profile%20views&color=e89b17&style=flat" alt="rahul2002m" /> </p>
-
-[![Badge](https://cp-logo.vercel.app/codechef/rahul_cr)](https://www.codechef.com/users/rahul_cr)
-
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rahul2002m&show_icons=true&locale=en&layout=compact_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=141321" alt="rahul2002m" /></p>
-
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=rahul2002m&show_icons=true&theme=dark&locale=en" alt="rahul2002m" /></p>
-
-
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul2002m&theme=dark" alt="rahul2002m" /></p>
+<p align="center">
+<a href="https://github.com/rahul2002m">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahul2002m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahul2002m&layout=compact&langs_count=8&theme=tokyonight"/>
+</a>
+</p>
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul2002m&theme=tokyonight" alt="rahul2002m" /> </p>
