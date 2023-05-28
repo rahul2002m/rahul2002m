@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Rahul</h1>
 <h3 align="center">Python Developer | Technical Content Writer</h3>
 <h4>I am deeply passionate about programming, constantly driven to explore and embrace cutting-edge technical concepts that expand the horizons of my knowledge.</h4>
-<p><img align="right" height="450em" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p><img align="right" height="420em" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
 <p> <img src="https://komarev.com/ghpvc/?username=rahul2002m&label=Profile%20views&color=e89b17&style=flat" alt="rahul2002m" /> </p>
 
@@ -52,8 +52,8 @@
 
 <p align="center">
 <a href="https://github.com/rahul2002m">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahul2002m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahul2002m&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahul2002m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahul2002m&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
 <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul2002m&theme=tokyonight" alt="rahul2002m" /> </p>
