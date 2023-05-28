@@ -8,8 +8,7 @@
 
 <!-- [![Badge](https://cp-logo.vercel.app/codechef/rahul_cr)](https://www.codechef.com/users/rahul_cr) -->
 
-
-- 🌱 Currently working as **Lead Python Developer** at [Myways.ai](https://myways.ai)
+- 🌱 Currently **Leading Python Development** at [Myways.ai](https://myways.ai)
 - 👨‍💻 All of my projects are available at [Github Profile](https://github.com/rahul2002m)
 - 🧭 I'm currently exploring **LLM, OpenAI and Langchain**
 - 📝 I regularly write articles on [my blog](https://techclone1.blogspot.com/)
