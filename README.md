@@ -8,6 +8,7 @@
 
 <!-- [![Badge](https://cp-logo.vercel.app/codechef/rahul_cr)](https://www.codechef.com/users/rahul_cr) -->
 
+### 📖 &nbsp; About Me
 - 🌱 Currently **Leading Python Development** at [Myways.ai](https://myways.ai)
 - 👨‍💻 All of my projects are available at [Github Profile](https://github.com/rahul2002m)
 - 🧭 I'm currently exploring **LLM, OpenAI and Langchain**
@@ -16,14 +17,13 @@
 - ⚡ Fun fact **Everything is fun**
 <!-- - 📄 Know about my experiences [on my resume](https://resume.io/r/lh9AJwHw5) -->
 
-<h3 align="left">Connect with me:</h3>
+### ✉️ &nbsp; Connect with me
 <p align="left">
- 
 <a target="_blank" href="https://linkedin.com/in/rahul-m-a65795197"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
 <a target="_blank" href="mailto:rahul2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 &emsp;
-<a target="_blank" href="https://instagram.com/rahul._.2220"><img src="https://img.shields.io/badge/-Instagram-1DA1F2?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+<a target="_blank" href="https://instagram.com/rahul._.2220"><img src="https://img.shields.io/badge/-Instagram-de26b3?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 &emsp;
 </p>
 
@@ -49,8 +49,6 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)
 
-
-<br>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
