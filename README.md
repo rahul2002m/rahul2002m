@@ -9,12 +9,13 @@
 <!-- [![Badge](https://cp-logo.vercel.app/codechef/rahul_cr)](https://www.codechef.com/users/rahul_cr) -->
 
 ### 📖 &nbsp; About Me
-- 🌱 Currently **Leading Python Development** at [Myways.ai](https://myways.ai)
+- 🌱 **Product Engineer** at [Myways.ai](https://myways.ai)
+- 🐍 **Lead Python Developer** at [Myways.ai](https://myways.ai)
 - 👨‍💻 All of my projects are available at [Github Profile](https://github.com/rahul2002m)
-- 🧭 I'm currently exploring **LLM, OpenAI and Langchain**
-- 📝 I regularly write articles on [my blog](https://techclone1.blogspot.com/)
-- 📄 Go through my portfolio on [my site](https://mrahul.me)
+- 🧭 Currently exploring **LLM, OpenAI, Langchain and VectorDB**
 - ⚡ Fun fact **Everything is fun**
+<!-- - 📝 I regularly write articles on [my blog](https://techclone1.blogspot.com/) -->
+<!-- - 📄 Go through my portfolio on [my site](https://mrahul.me) -->
 <!-- - 📄 Know about my experiences [on my resume](https://resume.io/r/lh9AJwHw5) -->
 
 ### ✉️ &nbsp; Connect with me
@@ -32,8 +33,8 @@
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)\
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![NodeJs](https://img.shields.io/badge/-NodeJs-05122A?style=flat&logo=node.js)
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=white)&nbsp;
@@ -42,11 +43,12 @@
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![MongoDB](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb&logoColor=green)\
+![MongoDB](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb&logoColor=green)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)&nbsp;
+![MySql](https://img.shields.io/badge/-MySql-05122A?style=flat&logo=mysql)\
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?logo=docker&logoColor=4287f5)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)
