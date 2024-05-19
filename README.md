@@ -9,11 +9,10 @@
 <!-- [![Badge](https://cp-logo.vercel.app/codechef/rahul_cr)](https://www.codechef.com/users/rahul_cr) -->
 
 ### 📖 &nbsp; About Me
-- 🌱 **Product Engineer** at [Myways.ai](https://myways.ai)
-- 🐍 **Lead Python Developer** at [Myways.ai](https://myways.ai)
+- 🌱 **Product Engineer** at [Zeko.ai](https://Zeko.ai)
+- 🐍 **Lead Python Developer** at [Zeko.ai](https://zeko.ai)
 - 👨‍💻 All of my projects are available at [Github Profile](https://github.com/rahul2002m)
-- 🧭 Currently exploring **LLM, OpenAI, Langchain and VectorDB**
-- ⚡ Fun fact **Everything is fun**
+- 🧭 Currently exploring **RAG and LLM Building**
 <!-- - 📝 I regularly write articles on [my blog](https://techclone1.blogspot.com/) -->
 <!-- - 📄 Go through my portfolio on [my site](https://mrahul.me) -->
 <!-- - 📄 Know about my experiences [on my resume](https://resume.io/r/lh9AJwHw5) -->
@@ -51,7 +50,9 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)\
+![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=4287f5)&nbsp;
+![OpenSearch](https://img.shields.io/badge/-OpenSearch-05122A?style=flat&logo=opensearch&logoColor=4287f5)
 
 
 
@@ -59,8 +60,8 @@
 
 <p align="center">
 <a href="https://github.com/rahul2002m">
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahul2002m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>&nbsp;&nbsp;&nbsp;
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahul2002m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> &nbsp;&nbsp;&nbsp;
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahul2002m&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul2002m&theme=tokyonight" alt="rahul2002m" /> </p>
+<p align="center"> <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul2002m&theme=tokyonight" alt="rahul2002m" /> </p>
