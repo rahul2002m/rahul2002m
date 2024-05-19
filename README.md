@@ -53,7 +53,7 @@
 ![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=4287f5)&nbsp;
 ![OpenSearch](https://img.shields.io/badge/-OpenSearch-05122A?style=flat&logo=opensearch&logoColor=4287f5)&nbsp;
-![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)&nbsp;
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow)\
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
 ![SciKitLearn](https://img.shields.io/badge/-Sci--Kit_Learn-05122A?style=flat&logo=scikit-learn)&nbsp;
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)&nbsp;
