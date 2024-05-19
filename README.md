@@ -50,7 +50,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat&logo=ubuntu)&nbsp;
-![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)\
+![Selenium](https://img.shields.io/badge/-Selenium-05122A?style=flat&logo=selenium)&nbsp;
 ![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoft-azure&logoColor=4287f5)&nbsp;
 ![OpenSearch](https://img.shields.io/badge/-OpenSearch-05122A?style=flat&logo=opensearch&logoColor=4287f5)
 
