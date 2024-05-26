@@ -68,7 +68,7 @@
 <p align="center">
 <a href="https://github.com/rahul2002m">
   <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahul2002m&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> &nbsp;&nbsp;&nbsp;
-  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahul2002m&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul2002m&theme=tokyonight" alt="rahul2002m" />
 </a>
 </p>
-<p align="center"> <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=rahul2002m&theme=tokyonight" alt="rahul2002m" /> </p>
+
