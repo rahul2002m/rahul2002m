@@ -12,7 +12,7 @@
 - 🌱 **Product Engineer** at [Zeko.ai](https://Zeko.ai)
 - 🐍 **Lead Python Developer** at [Zeko.ai](https://zeko.ai)
 - 👨‍💻 All of my projects are available at [Github Profile](https://github.com/rahul2002m)
-- 🧭 Currently exploring **RAG and LLM Building**
+- 🧭 Currently working on **RAG and LLM Building**
 <!-- - 📝 I regularly write articles on [my blog](https://techclone1.blogspot.com/) -->
 <!-- - 📄 Go through my portfolio on [my site](https://mrahul.me) -->
 <!-- - 📄 Know about my experiences [on my resume](https://resume.io/r/lh9AJwHw5) -->
